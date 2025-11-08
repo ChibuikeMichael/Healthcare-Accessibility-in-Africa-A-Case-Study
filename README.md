@@ -31,4 +31,4 @@ Patient satisfaction rates serve as indicators of service quality, while other f
 4. Strategic recommendations for policymakers to ensure equitable healthcare access.
 5. Data visualization techniques to communicate findings effectively to stakeholders.
 
-Project File: [View Project Report (pdf)](projects/Water_Access_and_Sanitation.pdf)
+Project File: [View Project File (pdf)](documents/Healthcare-Accessibility-in-Africa-File.pdf)
